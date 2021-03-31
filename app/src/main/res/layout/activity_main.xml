@@ -145,7 +145,7 @@
                     android:layout_height="match_parent"
                     android:textAlignment="center"
                     android:padding="3dp"
-                    android:text="Nasi Padang"
+                    android:text="Ayam Goreng"
                     android:textSize="15dp"/>
 
             </androidx.cardview.widget.CardView>
